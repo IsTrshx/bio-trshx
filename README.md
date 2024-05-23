@@ -41,6 +41,6 @@ pnpm dev # para pnpm
 # Usando el template
 Para usar este template, lee y sigue los pasos dados en la [Guía de Uso](https://github.com/IsTrshx/bio-trshx/blob/main/USING.md)
 
-## 💌 Support Server
+## 💌 Servidor de Soporte 👇
 
 [![DiscordBanner](https://cdn.discordapp.com/attachments/1243320176523477053/1243320232408514630/eb903f7c4b452a314eb4d4923a15651c.gif?ex=66510bb3&is=664fba33&hm=3c21259b8a85985c8a8b1cfa7401731734819e01d9648694cb623123b3b2aabc&)](https://discord.gg/WFH9fc7e4T)
