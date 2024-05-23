@@ -12,7 +12,8 @@ Ahora elige un nombre para tu repositorio y créalo.
 - Primero, clona el repositorio localmente
 
 ```git
-git clone <url>```
+git clone <url>
+```
 
 - Instala las dependencias
 
