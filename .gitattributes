@@ -1,0 +1,4 @@
+# Detectar automáticamente archivos de texto y realizar la normalización LF
+* text=auto
+package-lock.json binary
+package.json binary
