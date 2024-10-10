@@ -184,7 +184,7 @@ export default function Home() {
                       <div className="max-w-s mt-1 w-full space-y-2">
                         <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
-                            href="/perfil"
+                            href="/gp"
                             target="_blank"
                             rel="noopener noreferrer nofollow"
                             className="w-full transition-all sm:hover:opacity-70"
@@ -193,20 +193,20 @@ export default function Home() {
                               <span className="relative mt-2 flex w-full flex-row items-center justify-between rounded bg-zinc-900 text-sm leading-tight">
                                 <div className="flex items-center justify-center">
                                   <div className="flex h-16 w-16 items-center justify-center rounded bg-zinc-800 bg-opacity-50">
-                                    <span className="">🌐</span>
+                                    <span className="">💦</span>
                                   </div>
                                   <div className="mx-4 flex flex-col">
                                     <span
                                       title="Nothing"
                                       className="text-ellipsis text-[16px] text-custom-cream"
                                     >
-                                      Website Sobre Mi
+                                      Basuritas Group
                                     </span>
                                     <span
-                                      title="/perfil"
+                                      title="/gp"
                                       className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                     >
-                                      Sobre Mi
+                                      Basuritas group porn +18
                                     </span>
                                   </div>
                                 </div>
@@ -237,20 +237,20 @@ export default function Home() {
                               <span className="relative mt-2 flex w-full flex-row items-center justify-between rounded bg-zinc-900 text-sm leading-tight">
                                 <div className="flex items-center justify-center">
                                   <div className="flex h-16 w-16 items-center justify-center rounded bg-zinc-800 bg-opacity-50">
-                                    <span className=""> 📸 </span>
+                                    <span className=""> 🔑 </span>
                                   </div>
                                   <div className="mx-4 flex flex-col">
                                     <span
                                       title="Nothing"
                                       className="text-ellipsis text-[16px] text-custom-cream"
                                     >
-                                      Canal de Telegram
+                                      Redirecciones TLG
                                     </span>
                                     <span
                                       title="Web toolbox"
                                       className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                     >
-                                      Mis cosas random Telegram.
+                                      Owner of Network Trash
                                     </span>
                                   </div>
                                 </div>
@@ -272,7 +272,7 @@ export default function Home() {
 
                         <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
-                            href="/mybot"
+                            href="/basurita"
                             target="_blank"
                             rel="noopener noreferrer nofollow"
                             className="w-full transition-all sm:hover:opacity-70"
@@ -281,20 +281,20 @@ export default function Home() {
                               <span className="relative mt-2 flex w-full flex-row items-center justify-between rounded bg-zinc-900 text-sm leading-tight">
                                 <div className="flex items-center justify-center">
                                   <div className="flex h-16 w-16 items-center justify-center rounded bg-zinc-800 bg-opacity-50">
-                                    <span className=""> 🤖 </span>
+                                    <span className=""> 👻 </span>
                                   </div>
                                   <div className="mx-4 flex flex-col">
                                     <span
                                       title="Nothing"
                                       className="text-ellipsis text-[16px] text-custom-cream"
                                     >
-                                      Telegram bot
+                                      is TRASH
                                     </span>
                                     <span
                                       title=""
                                       className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                     >
-                                      El bot de Telegram que administro.
+                                      mi canal mio de mi.
                                     </span>
                                   </div>
                                 </div>
