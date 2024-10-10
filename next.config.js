@@ -16,13 +16,13 @@ module.exports = {
   async redirects() {
     return [
       {
-        source: '/perfil',
-        destination: 'https://perfil.istrshx.uno/',
+        source: '/gp',
+        destination: 'https://t.me/xBasuritas',
         permanent: true,
       },
       {
         source: '/canal',
-        destination: 'https://t.me/isTrshxDev',
+        destination: 'https://t.me/menuBasurita',
         permanent: true,
       },
       {
@@ -31,8 +31,8 @@ module.exports = {
         permanent: true,
       },
       {
-        source: '/mybot',
-        destination: 'https://',
+        source: '/basurita',
+        destination: 'https://t.me/isBasurita',
         permanent: true,
       },
       {
